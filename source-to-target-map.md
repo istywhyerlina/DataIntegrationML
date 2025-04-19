@@ -44,5 +44,5 @@ target : table car_sales
 | `color`                     | `color`                      | - |
 | `interior`                  | `interior`                   | - |
 | `"mmr"`                    | `"mmr"`                     | - |
-| `"sellingprice"`                  | `"selling_price"`                   | - |
+| `"sellingprice"`                  | `"selling_price"`                   | rename column |
 
