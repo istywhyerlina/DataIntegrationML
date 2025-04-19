@@ -8,6 +8,7 @@ In this project I will learn about building data pipeline using python to integr
 ![screenshot](picture/pipeline_design.png)
 ## Result 
 ![screenshot](picture/result_running.png)
+![screenshot](picture/minio.png)
 
 To run this Docker Compose, using this command
 
